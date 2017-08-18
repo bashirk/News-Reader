@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_11a02ae16dc56e7efe90c90ddbea228c780f2513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_9f00f103dc5a940e80ec5397292f2a2ec899f6c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_57e5be2b1e973a1e9d64536413f26c6089d83026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_6535e298651cd299d9d9b830ed9f8d1f69849e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1b71bec75a03f69180c7bd57985e2520138d621b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c61793761f42373285860eba539a769fb9880627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_643c0c9ecffc257ca22df5979cba0757836f5997.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd7e9e4044d541b253c526294b9f4985029d846c">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.43.2_818f46c858eb90d9504a749ffeb43cd622fd2b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_0a59737e9b1bb179d8b53517ef1f3ebdf7c56b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_dae6d840d3f5503b0849bc150bd93a5f82d6ef2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_679ec354691f6f9396a29d23c2d96c183d0e7c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_8ea7fbf7b6b43f2f737c0be50f10cbd82b86688a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_d507a799ca6437e1668372aac4e1b7f7a5a5919f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_712e3f486e47235cb2d0fe32ded975d03874967c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4d4bbbd0075278b90c8f2d04c865dd2da77c1b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_816d766f0339d8db8ded60c4d804c8eeb1dc7d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_de5718ef66540ce747004cd23ec7610272728fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_222bd1b86ccad23b1f08f94a160e67fe8689a967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_b11729c84f6a31998cfa83deb325971191ce67b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_c75dad1f25b30b0ebf289ed4fd4104e964a20f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e0fcaf2743181329257e583b0afeb41ed2d36ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_536ac57c51d2192d1f5423920a86baa57480918e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\USER\Desktop\DevC_Files\React\NewsReader\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_640ad51301ae8a56e5827958e1adb39fc6b2cc75.jar" />
+    </item>
+
+</items>
